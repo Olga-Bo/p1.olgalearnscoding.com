@@ -18,7 +18,7 @@
     	<div class="container">
     		<h1>Olga Bolkunova</h1>
 
-    		<p>I am an entrepreneur and Chinese teacher. I was managing partnershiprs with Chinese Universities at Fareastern Federal University (Vladivostok, Russia) before moving to the US to persue Masters degree in Global Studies and International Affairs. I 've started coding two months ago, and so far have created my online portfolio at <a href="http://www.olgabo.com">olgabo.com</a>. </p>
+    		<p>I am an entrepreneur and Chinese teacher. I was managing partnershiprs with Chinese Universities at Far Eastern Federal University (Vladivostok, Russia) before moving to the US to persue Masters degree in Global Studies and International Affairs. I 've started coding two months ago, and so far have created my online portfolio at <a href="http://www.olgabo.com">olgabo.com</a>. </p>
 
     		<h4>My code editor is Sublime Text.</h4> 
 
